@@ -1,0 +1,5 @@
+Type: Organization
+Full Name: ООО «ПромТехСнаб»
+Address: Moscow, Leninsky Prospekt, 101
+INN: 9876543210
+Black List: faslse

@@ -1,0 +1,9 @@
+C:\Users\denis\source\repos\ProjectScaner\ProjectScaner\x64\Debug\ProjectScaner.vcxproj.AssemblyReference.cache
+C:\Users\denis\source\repos\ProjectScaner\ProjectScaner\x64\Debug\ProjectScaner.MyForm.resources
+C:\Users\denis\source\repos\ProjectScaner\ProjectScaner\x64\Debug\ProjectScaner.vcxproj.GenerateResource.cache
+C:\Users\LENOVO\source\repos\ProjectScaner\ProjectScaner\x64\Debug\ProjectScaner.vcxproj.AssemblyReference.cache
+C:\Users\LENOVO\source\repos\ProjectScaner\ProjectScaner\x64\Debug\ProjectScaner.MyForm.resources
+C:\Users\LENOVO\source\repos\ProjectScaner\ProjectScaner\x64\Debug\ProjectScaner.vcxproj.GenerateResource.cache
+C:\Users\LENOVO\source\repos\ProjectScaner\x64\Debug\ProjectScaner.exe.lastcodeanalysissucceeded
+C:\Users\LENOVO\source\repos\ProjectScaner\x64\Debug\ProjectScaner.exe.CodeAnalysisLog.xml
+C:\Users\LENOVO\source\repos\ProjectScaner\ProjectScaner\x64\Debug\NativeCodeAnalysis.read.1.tlog

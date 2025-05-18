@@ -1,0 +1,20 @@
+Package ID: 654321
+Tracking Number: CN123456789RU
+Weight: 2.5 kg
+Category: Electronics
+Delivery Address: Saint Petersburg, Nevsky Ave, 45
+Sendler:
+Country: Russia
+Type: Organization
+Full Name: ООО «Питер Технолоджи»
+Address: Saint Petersburg, Moskovsky Prospekt, 10
+INN: 7812345678
+Recipient:
+Country: China
+Type: Individual
+Full Name: Li Wei
+Content:
+HS Code: 8528720000
+HS Code: 8517620000
+Import Tax Paid: true
+Verification Date: 2025-05-16

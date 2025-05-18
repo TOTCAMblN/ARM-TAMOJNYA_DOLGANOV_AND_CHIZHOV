@@ -1,0 +1,6 @@
+Full Name: Anna Petrova
+Passport Number: 3210 987654
+INN: 1122334455
+Phone: +7 913 123-45-67
+Address: Novosibirsk, Krasny Ave, 22
+Black List: false

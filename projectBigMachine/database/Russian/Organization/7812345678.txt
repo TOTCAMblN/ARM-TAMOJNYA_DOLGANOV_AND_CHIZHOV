@@ -1,0 +1,5 @@
+Type: Organization
+Full: ООО «Питер Технолоджи»
+Address: Saint Petersburg, Moskovsky Prospekt, 10
+INN: 7812345678
+Black List: false

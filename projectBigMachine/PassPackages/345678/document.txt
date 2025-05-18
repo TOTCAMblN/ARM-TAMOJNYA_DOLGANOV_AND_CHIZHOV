@@ -1,0 +1,21 @@
+Package ID: 345678
+Tracking Number: DE246810121RU
+Weight: 5 kg
+Category: Industrial Equipment
+Delivery Address: Moscow, Leninsky Prospekt, 101
+Sendler:
+Country: Germany
+Type: Organization
+Full Name: Maschinenbau GmbH
+Address: Berlin, Alexanderplatz 3
+INN: 1234567890
+Recipient:
+Country: Russia
+Type: Organization
+Full Name: ООО «ПромТехСнаб»
+Address: Moscow, Leninsky Prospekt, 101
+INN: 9876543210
+Content:
+HS Code: 8431490000
+Import Tax Paid: true
+Verification Date: 2025-05-13

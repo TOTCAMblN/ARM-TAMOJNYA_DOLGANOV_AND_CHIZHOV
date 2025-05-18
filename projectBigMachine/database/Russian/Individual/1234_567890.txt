@@ -1,0 +1,6 @@
+Full Name: Ivan Petrov
+Passport Number: 1234 567890
+INN: 123456789012
+Phone: +7 999 123-45-67
+Address: Moscow, Tverskaya St, 12
+Black List: false

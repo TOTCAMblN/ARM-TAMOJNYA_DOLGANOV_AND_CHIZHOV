@@ -1,0 +1,6 @@
+
+train: /content/dataset/train/images
+val: /content/dataset/train/images  # можно позже поменять на отдельную папку
+
+nc: 12
+names: ['Baton', 'Bullet', 'Gun', 'Hammer', 'HandCuffs', 'Knife', 'Lighter', 'Pliers', 'Powerbank', 'Scissors', 'Sprayer', 'Wrench']

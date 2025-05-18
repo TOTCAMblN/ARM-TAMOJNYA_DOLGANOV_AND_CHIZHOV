@@ -1,0 +1,23 @@
+Package ID: 123456
+Tracking Number: RU987654321CN
+Weight: 3.2 kg
+Category: Gift
+Delivery Address: Moscow, Tverskaya St, 12
+Sendler:
+Country: China
+Type: Organization
+Full Name: Shenzhen Tech Co., Ltd.
+Recipient:
+Country: Russia
+Type: Individual
+Full Name: Ivan Petrov
+Passport Number: 1234 567890
+INN: 123456789012
+Phone: +7 999 123-45-67
+Address: Moscow, Tverskaya St, 12
+Content:
+HS Code: 8504403000
+HS Code: 8510100000
+Import Tax Paid: true
+Verification Date: 2025-05-14
+
